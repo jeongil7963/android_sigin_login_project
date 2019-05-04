@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image_view">image_view</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="id">ID</string>
+</resources>
